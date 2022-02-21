@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Events Project!</Text>
+      <Text>Events Project! 21 Feb 2022</Text>
       <StatusBar style="auto" />
     </View>
   );
